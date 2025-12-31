@@ -1,5 +1,0 @@
-# clusters/dev/platform/namespace.yaml
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: platform

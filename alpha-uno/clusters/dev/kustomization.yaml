@@ -4,6 +4,8 @@ kind: Kustomization
 resources:
   - gotk-components.yaml
   - gotk-sync.yaml
+  - namespace.yaml
+  - pod.yaml
   - platform
   - infrastructure
   - apps
